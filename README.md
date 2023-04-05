@@ -43,5 +43,5 @@ As a STATPGX user, I want to be able to see the StatPGX icon in the header of th
 #### Imagen de ejecución
 ![](https://i.imgur.com/ONAkAJh.png)
 
-
-
+## URL del Jira
+A continuación veran un url donde se encuentra cargada la actividades que se muestra en la parte superior.
