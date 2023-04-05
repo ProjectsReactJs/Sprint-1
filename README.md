@@ -45,3 +45,5 @@ As a STATPGX user, I want to be able to see the StatPGX icon in the header of th
 
 ## URL del Jira
 A continuación veran un url donde se encuentra cargada la actividades que se muestra en la parte superior.
+https://oficinatrabajo002.atlassian.net/jira/software/c/projects/STAT/boards/87/backlog?selectedIssue=STAT-20&issueLimit=100
+
