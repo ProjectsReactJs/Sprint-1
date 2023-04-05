@@ -29,4 +29,10 @@ As a STATPGX user, I want to be able to add multiple sections of prospective med
 ![](https://i.imgur.com/WkunBdG.png)
 
  
+## STATPGX-5
+#### UI- Display selection summary
+As a STATPGX user, I want to be able to see the selection of the medication, conditions and diagnosis in JSON format before submitting.
+
+#### Imagen de ejecución
+![](https://i.imgur.com/xTtSQlh.png)
 
