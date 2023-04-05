@@ -6,7 +6,7 @@ Asignación del sprint 1 para el desarrollo de Statpgx
 As a STATPGX user, I want to be able to open a page that displays the current and prospective medications fields.
 
 #### Imagen de ejecución
-![](https://imgur.com/a/xwASkuH)
+![](https://i.imgur.com/rPahTeT.png)
 
 
 ## STATPGX-2
