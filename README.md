@@ -21,4 +21,12 @@ As a STATPGX user, I want to be able to select the medication, the conditions th
 ![](https://i.imgur.com/BHujDwa.png)
 
 
+## STATPGX-3
+#### UI- Repeating Section
+As a STATPGX user, I want to be able to add multiple sections of prospective medications and get the conditions and diagnosis for each one of them.
+
+#### Imagen de ejecución
+![](https://i.imgur.com/WkunBdG.png)
+
+
 
