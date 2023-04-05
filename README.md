@@ -10,9 +10,13 @@ As a STATPGX user, I want to be able to open a page that displays the current an
 
 
 ## STATPGX-2
-#### UI - Create current and prospective medication page
-As a STATPGX user, I want to be able to open a page that displays the current and prospective medications fields.
+#### UI - Add validations and API calls to Current and prospective medication page
+As a STATPGX user, I want to be able to select the medication, the conditions that are treated by the medication and the relevant diagnosis for those treatments.
 
 #### Imagen de ejecución
-![](https://imgur.com/a/xwASkuH)
+![](https://i.imgur.com/nigzERO.png)
+
+![](https://i.imgur.com/xMs4UHJ.png)
+
+
 
