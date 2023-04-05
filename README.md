@@ -18,5 +18,7 @@ As a STATPGX user, I want to be able to select the medication, the conditions th
 
 ![](https://i.imgur.com/xMs4UHJ.png)
 
+![](https://i.imgur.com/BHujDwa.png)
+
 
 
