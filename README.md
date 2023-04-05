@@ -28,5 +28,5 @@ As a STATPGX user, I want to be able to add multiple sections of prospective med
 #### Imagen de ejecución
 ![](https://i.imgur.com/WkunBdG.png)
 
-
+ 
 
