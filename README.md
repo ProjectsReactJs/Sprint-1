@@ -15,3 +15,4 @@ As a STATPGX user, I want to be able to open a page that displays the current an
 
 #### Imagen de ejecución
 ![](https://imgur.com/a/xwASkuH)
+
