@@ -36,3 +36,12 @@ As a STATPGX user, I want to be able to see the selection of the medication, con
 #### Imagen de ejecución
 ![](https://i.imgur.com/xTtSQlh.png)
 
+## STATPGX-6
+#### Create header and icon for the "current and prospective medication" page
+As a STATPGX user, I want to be able to see the StatPGX icon in the header of the application after logging in.
+
+#### Imagen de ejecución
+![](https://i.imgur.com/ONAkAJh.png)
+
+
+
